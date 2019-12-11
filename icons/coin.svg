@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="0" y1="0.5" x2="1" y2="0.5" id="gradient_1">
+      <stop offset="0" stop-color="#80D8FF" />
+      <stop offset="0.16" stop-color="#88D1FF" />
+      <stop offset="0.413" stop-color="#9FBEFE" />
+      <stop offset="0.725" stop-color="#C4A0FD" />
+      <stop offset="1" stop-color="#EA80FC" />
+    </linearGradient>
+  </defs>
+  <g id="coin">
+    <path d="M64 0C28.6268 0 0 28.6243 0 64C0 99.3727 28.6243 128 64 128C99.3727 128 128 99.3757 128 64C128 28.6268 99.3757 0 64 0ZM64 118C34.154 118 10 93.8483 10 64C10 34.1537 34.1517 10 64 10C93.846 10 118 34.1517 118 64C118 93.8463 93.848 118 64 118ZM57.75 59C52.9253 59 49 55.0748 49 50.25C49 45.4253 52.9253 41.5 57.75 41.5L84 41.5C86.7615 41.5 89 39.2615 89 36.5C89 33.7385 86.7615 31.5 84 31.5L69 31.5L69 24C69 21.2385 66.7615 19 64 19C61.2385 19 59 21.2385 59 24L59 31.5L57.75 31.5C47.4113 31.5 39 39.9113 39 50.25C39 60.5887 47.4113 69 57.75 69L70.25 69C75.0748 69 79 72.9252 79 77.75C79 82.5748 75.0748 86.5 70.25 86.5L44 86.5C41.2385 86.5 39 88.7385 39 91.5C39 94.2615 41.2385 96.5 44 96.5L59 96.5L59 104C59 106.761 61.2385 109 64 109C66.7615 109 69 106.761 69 104L69 96.5L70.25 96.5C80.5887 96.5 89 88.0888 89 77.75C89 67.4113 80.5887 59 70.25 59L57.75 59Z" id="Shape" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+    <g id="Group" />
+  </g>
+</svg>
